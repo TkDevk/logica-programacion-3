@@ -1,0 +1,16 @@
+body{
+    background-color: #09809b;
+    display: inline-block;
+    justify-content: center;
+}
+button{
+    border: none;
+    border-radius: 0.5rem;
+    color:black;
+    cursor: pointer;
+    width: 10svw;
+
+}
+input{
+    width: 10svw;
+}
