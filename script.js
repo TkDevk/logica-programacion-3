@@ -1,7 +1,7 @@
 function calcularFactorial()
 {const inputNumber = parseFloat(document.getElementById('num').value);
 let resultado=1;
-for(let i=1; i<inputNumber+1;i++){
+for(let i=1; i<=inputNumber;i++){
 
      resultado= resultado*i;
     }
